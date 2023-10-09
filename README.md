@@ -1,5 +1,7 @@
 # LLM Question-Answering Application
 
+![Header Image]([https://example.com/your_image.jpg](https://github.com/harbidel/LLM_Question_Answering_APP/blob/main/img.jpg))
+
 This Streamlit application utilizes OpenAI's GPT-3.5-turbo model for question-answering based on document embeddings. It allows users to upload documents in PDF, DOCX, or TXT format, chunks the document, and generates embeddings for each chunk. Users can then ask questions related to the document content, and the application provides answers using the GPT-3.5-turbo model.
 
 ## Installation
