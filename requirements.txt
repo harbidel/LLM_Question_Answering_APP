@@ -1,0 +1,12 @@
+openai
+langchain
+docx2txt
+pypdf
+pdfminer
+streamlit
+chromadb
+tiktoken
+pytesseract
+tesseract-ocr
+tesseract
+unstructured-inference
