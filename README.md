@@ -48,6 +48,10 @@ This Streamlit application utilizes OpenAI's GPT-3.5-turbo model for question-an
 
 6. Ask questions in the text input, and the application will provide answers based on the document content.
 
+## Demo 1
+
+![Demo](https://github.com/harbidel/LLM_Question_Answering_APP/blob/main/Chat%20Doc1.gif)
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
