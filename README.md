@@ -52,10 +52,6 @@ This Streamlit application utilizes OpenAI's GPT-3.5-turbo model for question-an
 
 ![Demo](https://github.com/harbidel/LLM_Question_Answering_APP/blob/main/Chat%20Doc1.gif)
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
